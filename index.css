@@ -1,0 +1,16 @@
+*{
+    background-color: green;
+}
+.heading{
+    background-color: orange;
+    color: red;
+    text-align: center;
+}
+.para{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.anchor{
+    color: white;
+}
